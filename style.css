@@ -1,5 +1,6 @@
 .body {
     background-color: rgb(174, 194, 194);
+    text-align: -webkit-center;
 }
 
 
@@ -12,4 +13,8 @@
     width: fit-content;
   }
 
+.img {
+    height: 432px;
+    width: 400px;
+  }
   
